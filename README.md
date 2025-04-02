@@ -28,7 +28,8 @@ I'm Ajay Duggirala, an IT professional with a background in Computer Science and
 ---
 
 ## 📫 Connect with Me  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/code-aj1)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/code-aj1) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/duggiralaajay2001)  
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:duggiralaajay1@gmail.com@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram)](https://www.instagram.com/_darling__aj_._/?__pwa=1#)  
 
